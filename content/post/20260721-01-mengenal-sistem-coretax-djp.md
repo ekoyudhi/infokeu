@@ -26,6 +26,8 @@ Sistem Coretax mulai diberlakukan dengan masa transisi selama 2025 melalui Perat
 
 > Coretax juga memperkenalkan identitas pajak digital (single login) dan dashboard interaktif sebagai pusat aktivitas perpajakan
 
+![Gambar Coretax](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTbjWbvARqOfh_7sGFdkfm7Eb7jmHhB-WIPED1hk5F4zQEjcyqwPhyphenhyphenUW_Ui0BhohR8pQhBr4N-pWotM2b-tlEWa5MO0_IyqKcHf2FQrM0BtaYDFKxqvu5uQ6TDPxBtTMdksca2P9cbmFDHIuox4NcikX4E8mG-eUrcbZHKH6hPCu_wDw/s1600/coretax.png)
+
 ### Layanan Baru yang Diperkenalkan Coretax
 
 Dengan Coretax, DJP menyederhanakan dan mempercepat layanan melalui:
